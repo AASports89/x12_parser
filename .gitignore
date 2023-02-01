@@ -7,3 +7,4 @@
 *.iml
 .dbshell
 .gradle
+.DS_Store
